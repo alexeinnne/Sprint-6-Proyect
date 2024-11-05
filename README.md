@@ -21,3 +21,8 @@ Esta aplicación permite visualizar y realizar análisis de un conjunto de datos
 ## Instalación
 
 Se utilizó PIP INSTALL para la instalación de las librerías.
+
+## App URL
+
+Se puede consultar la app en el siguiente enlace: https://sprint-6-proyecto.onrender.com/
+
